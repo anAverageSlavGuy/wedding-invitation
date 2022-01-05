@@ -1,0 +1,180 @@
+
+@media only screen and (max-width: 1250px) {
+    .menu {
+        display: none;
+    }
+
+    .margin {
+        margin: 0;
+        padding: 0 0.625rem;
+    }
+
+    .our-photo {
+        width: 100%;
+        padding: 1rem;
+    }
+
+    .Home {
+        margin-top: -6.25rem;
+    }
+
+
+    .title span {
+        line-height: 25vw;
+        font-size: 16vw;
+        text-align: center;
+    }
+
+    .title p {
+        font-size: 7.75vw;
+        line-height: 9vw;
+        text-align: center;
+        margin-top: -1rem;
+        height: auto;
+    }
+
+    .m-align-center {
+       text-align: center!important;
+    }
+
+    .m-text-14 {
+        font-size: 3.75vw;
+        line-height: 4.625vw;
+    }
+
+    .m-text-16 {
+        font-size: 4.5vw;
+        line-height: 5.5vw;
+    }
+
+    .m-text-18 {
+        font-size: 5vw;
+        line-height: 6.75vw;
+    }
+
+    .m-text-20 {
+        font-size: 5.35vw;
+        line-height: 6.5vw;
+    }
+
+    .m-text-64 {
+        line-height: 25.25vw;
+        font-size: 16.25vw;
+    }
+
+    .m-text-30 {
+        font-size: 8vw;
+        line-height: 9.25vw;
+    }
+
+    .row>* {
+        padding-right: 0.625rem;
+        padding-left: 0.625rem;
+    }
+
+    .m-ml-0 {
+        margin-left: 0!important;
+    }
+
+    .m-mr-0 {
+        margin-right: 0!important;
+    }
+
+    .m-mb-10 {
+        margin-bottom: 0.625rem!important;
+    }
+
+    .m-mb-20 {
+        margin-bottom: 1.25rem !important;
+    }
+
+    .m-mb-40 {
+        margin-bottom: 2.5rem !important;
+    }
+
+    .m-mb-60 {
+        margin-bottom: 3.75rem !important;
+    }
+
+    .m-mb-80 {
+        margin-bottom: 5rem !important;
+    }
+
+    .m-mt-20 {
+        margin-top: 1.25rem !important;
+    }
+
+    .m-mt-40 {
+        margin-top: 2.5rem !important;
+    }
+
+    .m-mt-80 {
+        margin-top: 5rem !important;
+    }
+
+    .m-pt-20 {
+        padding-top: 1.25rem!important
+    }
+
+    .m-pt-40 {
+        padding-top: 2.5rem!important;
+    }
+
+    .m-pb-40 {
+        padding-bottom: 2.5rem!important;
+    }
+
+    .m-align-center {
+        text-align: center;
+    }
+
+    .m-align-left {
+        text-align: left;
+    }
+
+    #confirm {
+        height: auto!important;
+    }
+
+    .confirm-card {
+        margin: 1.25rem 0.625rem !important;
+        width: calc( 100% - 1.25rem);
+        padding: 1.25rem;
+    }
+
+    .confirm-form, .confirm-button {
+        width: 100%;
+    }
+
+    .japan {
+        width: 67%!important;
+        left: -23%;
+    }
+
+    .row {
+        margin: 0;
+    }
+
+    .iban-card {
+        border: none;
+        padding: 0;
+    }
+
+    .m-separator {
+        border: none;
+        border-left: 1px solid #91868C;
+    }
+
+    .answer > br {
+        display: none;
+    }
+
+    .question > br {
+        display: none;
+    }
+
+    b > br {
+        display: none;
+    }
+
+}
