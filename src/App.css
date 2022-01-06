@@ -74,7 +74,7 @@ nav {
 }
 
 .menu-left {
-  justify-content: end;
+  justify-content: flex-end;
 }
 
 .menu-right, .menu-left {
@@ -91,7 +91,7 @@ a {
 }
 
 a:hover {
-  color: #91868C !important;
+  color: #725671 !important;
 }
 
 @keyframes App-logo-spin {
@@ -127,6 +127,12 @@ a:hover {
   font-family: 'Cormorant Garamond Semibold';
   src: url(./fonts/Cormorant_Garamond/CormorantGaramond-SemiBold.ttf);
   font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Cormorant Garamond Light';
+  src: url(./fonts/Cormorant_Garamond/CormorantGaramond-Light.ttf);
+  font-weight: 400;
 }
 
 .break {
@@ -232,20 +238,46 @@ a:hover {
   font-family: 'Cormorant Garamond Semibold';
 }
 
+.light-text {
+  font-family: 'Cormorant Garamond Light';
+  font-weight: 400;
+}
+
 .underline {
   text-decoration: underline;
   text-decoration-style: solid;
   text-decoration-thickness: from-font;
-  text-decoration-color: #271D15;
+  text-decoration-color: #725671;
 }
 
 .outlined {
   line-height: 10.5rem;
   font-size: 12.5rem;
-  color: #91868C;
+  color: #725671;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: #91868C;
+  -webkit-text-stroke-color: #725671;
+}
+
+.very-peri {
+  color: #765c9a;
+  font-family: 'Cormorant Garamond Italic';
+  font-weight: 700;
+}
+
+.dress-code-dropdown {
+  cursor: pointer;
+  color: #765c9a;
+  font-weight: 700;
+}
+
+.dress-code-dropdown > img {
+  margin-left: 0.75rem;
+}
+
+.dress-code-palette {
+  width: 32rem;
+  transition: height 0.3s;
 }
 
 .italic-text {
@@ -295,10 +327,10 @@ a:hover {
 .title span {
   line-height: 10.5rem;
   font-size: 12.5rem;
-  color: #91868C;
+  color: #725671;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: #91868C;
+  -webkit-text-stroke-color: #725671;
 }
 
 .title p {
@@ -323,19 +355,18 @@ a:hover {
 }
 
 .our-photo {
-  border: 1px solid #91868C;
+  border: 1px solid #725671;
   padding: 1.25rem;
   width: 28.25rem;
   margin: auto 0 auto auto
 }
 
 .our-photo>img {
-  height: 100%;
   width: 100%;
 }
 
 .separator {
-  border-right: 1px solid #91868C;
+  border-right: 1px solid #725671;
 }
 
 .recap-title {
@@ -393,6 +424,24 @@ a:hover {
   width: 17.5rem;
 }
 
+.pianta6 {
+  position: relative;
+  z-index: 0;
+  height: 5.75rem;
+  padding: 0;
+  width: 16.5rem;
+}
+
+.pianta7 {
+  position: relative;
+  z-index: 0;
+  height: 5.75rem;
+  padding: 0;
+  width: 16.5rem;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+
 .japan {
   position: absolute;
   z-index: -1;
@@ -408,12 +457,12 @@ a:hover {
   height: 3rem;
   padding: 0.625rem;
   background: transparent;
-  border: 1px solid #91868C;
+  border: 1px solid #725671;
   color: #271D15;
 }
 
 .confirm-form::placeholder {
-  color: #91868C;
+  color: #725671;
 }
 
 .confirm-button {
@@ -443,8 +492,8 @@ a:hover {
 }
 
 .form-check-input:checked {
-  background-color: #91868C;
-  border-color: #91868C;
+  background-color: #725671;
+  border-color: #725671;
 }
 
 .disabled-button {
@@ -452,16 +501,35 @@ a:hover {
   pointer-events: none;
 }
 
+.fail-card {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.success-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 50%;
+  position: absolute;
+  width: 100%;
+  margin: auto;
+  right: 50%;
+  transform: translate(50%,-50%);
+}
+
 /* REGISTRY*/
 
 .registry-card {
   margin: auto;
-  border: 1px solid #91868C;
+  border: 1px solid #725671;
   background: #E2E2E5;
 }
 
 .iban-card {
-  border: 1px solid #91868C;
+  border: 1px solid #725671;
   padding: 2.5rem;
 }
 
@@ -471,12 +539,12 @@ a:hover {
   height: 3rem;
   padding: 0.625rem;
   background: transparent;
-  border: 1px solid #91868C;
-  color: #271D15;
+  border: 1px solid #725671;
+  color: #725671;
 }
 
 .registry-form::placeholder {
-  color: #91868C;
+  color: #725671;
 }
 
 .registry-button {

@@ -47,7 +47,7 @@ function Registry(props) {
                                     <br className="d-none d-md-block" />
                                     ogni centesimo è importante per noi, grazie mille.
                                 </div>
-                                <div className="d-none d-md-block text-14 m-text-14 mt-20 text-align-left m-align-center ml-40 mb-40 m-ml-0">
+                                <div className="d-none d-md-block text-14 m-text-14 mt-20 text-align-left m-align-center ml-40 mb-40 m-ml-0" style={{color: "#725671"}}>
                                     Per comodità abbiamo preferito indicare il cc di Agnese, ma il totale sarà ugualmente diviso&nbsp;
                                     <br className="d-none d-md-block" />
                                     per entrambi. In caso di problemi non esitate a contattarci.
@@ -62,7 +62,7 @@ function Registry(props) {
                                     <input type="text" className="registry-form text-16 m-text-16" id="iban" value="IT53B0347501605CC0011309852" readOnly />
 
                                     <button type="button" className="registry-button semibold-text text-18 m-text-18 mt-20 m-mt-40" onClick={(e) => copyToClipboard(e)}>COPIA IBAN</button>
-                                    <div className="d-block d-md-none text-14 m-text-14 mt-20 text-align-left m-align-center ml-40 mb-40 m-ml-0">
+                                    <div className="d-block d-md-none text-14 m-text-14 mt-20 text-align-left m-align-center ml-40 mb-40 m-ml-0" style={{color: "#725671"}}>
                                         Per comodità abbiamo preferito indicare il cc di Agnese, ma il totale sarà ugualmente diviso&nbsp;
                                         <br className="d-none d-md-block" />
                                         per entrambi. In caso di problemi non esitate a contattarci.

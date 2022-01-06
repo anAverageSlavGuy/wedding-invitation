@@ -21,7 +21,7 @@
 
     .title span {
         line-height: 25vw;
-        font-size: 16vw;
+        font-size: 16.5vw;
         text-align: center;
     }
 
@@ -72,12 +72,29 @@
         padding-left: 0.625rem;
     }
 
+    .m-ph-20 {
+        padding-right: 1.25rem;
+        padding-left: 1.25rem;
+    }
+
     .m-ml-0 {
         margin-left: 0!important;
     }
 
     .m-mr-0 {
         margin-right: 0!important;
+    }
+
+    .m-mb-0 {
+        margin-bottom: 0!important;
+    }
+
+    .m-mt-0 {
+        margin-top: 0!important;
+    }
+
+    .m-mr-15 {
+        margin-right: 4.25vw!important;
     }
 
     .m-mb-10 {
@@ -139,7 +156,8 @@
     .confirm-card {
         margin: 1.25rem 0.625rem !important;
         width: calc( 100% - 1.25rem);
-        padding: 1.25rem;
+        padding: 1.25rem 1rem;
+        min-height: 35rem;
     }
 
     .confirm-form, .confirm-button {
@@ -162,7 +180,7 @@
 
     .m-separator {
         border: none;
-        border-left: 1px solid #91868C;
+        border-left: 1px solid #725671;
     }
 
     .answer > br {
@@ -177,4 +195,27 @@
         display: none;
     }
 
+    .bottom-buttons {
+        position: relative;
+        bottom: 0;
+        flex-direction: column-reverse;
+    }
+
+    .cancel-button, .confirm-button {
+        width: 100%;
+    }
+    
+    .form-check-label {
+        padding-top: 0.5vw;
+    }
+
+    .form-check-input {
+        height: 5vw;
+        width: 5vw;
+    }
+
+    .dress-code-palette {
+        transition: none;
+        width: 100%;
+    }
 }

@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e497fbea.chunk.css",
+    "main.js": "/static/js/main.26081f41.chunk.js",
+    "main.js.map": "/static/js/main.26081f41.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc8324db.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc8324db.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.1fbd1c4e.chunk.js": "/static/js/2.1fbd1c4e.chunk.js",
+    "static/js/2.1fbd1c4e.chunk.js.map": "/static/js/2.1fbd1c4e.chunk.js.map",
+    "static/js/3.b1a1daf4.chunk.js": "/static/js/3.b1a1daf4.chunk.js",
+    "static/js/3.b1a1daf4.chunk.js.map": "/static/js/3.b1a1daf4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.e497fbea.chunk.css.map": "/static/css/main.e497fbea.chunk.css.map",
+    "static/js/2.1fbd1c4e.chunk.js.LICENSE.txt": "/static/js/2.1fbd1c4e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Montserrat-Medium.e2d60bc4.ttf",
+    "static/media/bottom.8e1c4bc8.svg": "/static/media/bottom.8e1c4bc8.svg",
+    "static/media/cuori.5b92b6e7.svg": "/static/media/cuori.5b92b6e7.svg",
+    "static/media/japan.ffbd0523.svg": "/static/media/japan.ffbd0523.svg",
+    "static/media/palette.c99fb90c.jpg": "/static/media/palette.c99fb90c.jpg",
+    "static/media/photo1.d78c85a7.jpg": "/static/media/photo1.d78c85a7.jpg",
+    "static/media/photo2.302e9e4a.jpg": "/static/media/photo2.302e9e4a.jpg",
+    "static/media/pianta1.92dc1b03.svg": "/static/media/pianta1.92dc1b03.svg",
+    "static/media/pianta2.32f7b71d.svg": "/static/media/pianta2.32f7b71d.svg",
+    "static/media/pianta3.6679b98a.svg": "/static/media/pianta3.6679b98a.svg",
+    "static/media/pianta4.3f269bc5.svg": "/static/media/pianta4.3f269bc5.svg",
+    "static/media/pianta5.9dc1b0cc.svg": "/static/media/pianta5.9dc1b0cc.svg",
+    "static/media/pianta6.8fb7eb94.svg": "/static/media/pianta6.8fb7eb94.svg",
+    "static/media/pianta7.029d10cc.svg": "/static/media/pianta7.029d10cc.svg",
+    "static/media/scritte.16d1fd91.svg": "/static/media/scritte.16d1fd91.svg",
+    "static/media/sfondo1.ae3ff018.svg": "/static/media/sfondo1.ae3ff018.svg",
+    "static/media/top.49a36709.svg": "/static/media/top.49a36709.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc8324db.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.1fbd1c4e.chunk.js",
+    "static/css/main.e497fbea.chunk.css",
+    "static/js/main.26081f41.chunk.js"
+  ]
+}
