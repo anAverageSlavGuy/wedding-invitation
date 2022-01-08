@@ -90,7 +90,7 @@ function ConfirmInvitation(props) {
                     </div>
                 </div>
                 <div className="row">
-                    <div className="d-none d-md-flex col-md-6 mt-40">
+                    <div className="d-none d-md-flex col-md-6 mt-40 mb-80 m-mb-40">
                         <div className="our-photo" style={{ "width": "19rem", "margin": "auto" }}>
                             <img src={photo2} />
                         </div>
@@ -205,7 +205,7 @@ function ConfirmInvitation(props) {
     }
 
     return (
-        <section id="confirm" className="row margin wallpaper" style={{ "backgroundImage": `url(${sfondo1})`, "height": "100vh" }}>
+        <section id="confirm" className="row margin wallpaper" style={{ "backgroundImage": `url(${sfondo1})`, "padding": "2.5rem 0" }}>
             <div className="col-12 col-md-10 confirm-card">
                 {/* {
                     (step == 0)

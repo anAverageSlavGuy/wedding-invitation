@@ -104,7 +104,6 @@ a:hover {
   }
 }
 
-
 @font-face {
   font-family: 'Montserrat';
   src: url(./fonts/Montserrat/Montserrat-Medium.ttf);
@@ -311,6 +310,7 @@ a:hover {
   position: relative;
   margin: 2.5rem auto !important;
   background: #E2E2E5;
+  min-height: 47rem;
 }
 
 .bottom-buttons {
