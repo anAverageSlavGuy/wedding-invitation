@@ -1,34 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c969f24.css",
-    "main.js": "/static/js/main.97910ae4.js",
-    "static/media/sfondo1.svg": "/static/media/sfondo1.ae3ff0189b9d1142e41512ed281e7ed0.svg",
-    "static/media/CormorantGaramond-SemiBold.ttf": "/static/media/CormorantGaramond-SemiBold.b2e099961ec65e0ee335.ttf",
-    "static/media/CormorantGaramond-Light.ttf": "/static/media/CormorantGaramond-Light.f177b0f5ad7b1f806511.ttf",
-    "static/media/CormorantGaramond-Medium.ttf": "/static/media/CormorantGaramond-Medium.83615ab317fb5a9a4aee.ttf",
-    "static/media/CormorantGaramond-Italic.ttf": "/static/media/CormorantGaramond-Italic.b8b9a9dd5a21ff5896ab.ttf",
-    "static/media/photo1.jpg": "/static/media/photo1.d78c85a74f1940fbcf37.jpg",
-    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.e2d60bc49517598c0ce8.ttf",
-    "static/media/pianta4.svg": "/static/media/pianta4.3f269bc5932a2ee39625b4796fae4234.svg",
-    "static/media/pianta1.svg": "/static/media/pianta1.92dc1b038d918ff8a4644e6fda513a9b.svg",
-    "static/media/pianta3.svg": "/static/media/pianta3.6679b98ac858124a3978001319c475b4.svg",
-    "static/media/photo2.jpg": "/static/media/photo2.302e9e4a7e41d74f28a1.jpg",
-    "static/media/pianta2.svg": "/static/media/pianta2.32f7b71de005a910fb0dc97efa8c149d.svg",
-    "static/media/pianta5.svg": "/static/media/pianta5.9dc1b0cc15bbfa312ff284e720f4e250.svg",
-    "static/media/scritte.svg": "/static/media/scritte.16d1fd91308857d1072297d4c1524822.svg",
-    "static/media/japan.svg": "/static/media/japan.ffbd05239c31c2013d89dd5866aa452b.svg",
-    "static/media/palette.jpg": "/static/media/palette.c99fb90cc906ac220bba.jpg",
-    "static/media/pianta6.svg": "/static/media/pianta6.8fb7eb946f2cfbf5825160c53631bd14.svg",
-    "static/media/pianta7.svg": "/static/media/pianta7.029d10cc3b3f0aecb6dfc1a539562cb7.svg",
-    "static/media/cuori.svg": "/static/media/cuori.5b92b6e7dd2981e69d7cb96fc9e5f846.svg",
+    "main.css": "/static/css/main.a617e044.chunk.css",
+    "main.js": "/static/js/main.d4d86a11.chunk.js",
+    "main.js.map": "/static/js/main.d4d86a11.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1d165aea.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1d165aea.js.map",
+    "static/js/2.7f41f541.chunk.js": "/static/js/2.7f41f541.chunk.js",
+    "static/js/2.7f41f541.chunk.js.map": "/static/js/2.7f41f541.chunk.js.map",
+    "static/js/3.dab4d7d0.chunk.js": "/static/js/3.dab4d7d0.chunk.js",
+    "static/js/3.dab4d7d0.chunk.js.map": "/static/js/3.dab4d7d0.chunk.js.map",
     "index.html": "/index.html",
-    "static/media/top.svg": "/static/media/top.49a367098afdebe4f7885a8a1da9243f.svg",
-    "static/media/bottom.svg": "/static/media/bottom.8e1c4bc8e8902fa5ecd0484a8cc1a329.svg",
-    "main.0c969f24.css.map": "/static/css/main.0c969f24.css.map",
-    "main.97910ae4.js.map": "/static/js/main.97910ae4.js.map"
+    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.7f41f541.chunk.js.LICENSE.txt": "/static/js/2.7f41f541.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/css/main.0c969f24.css",
-    "static/js/main.97910ae4.js"
+    "static/js/runtime-main.1d165aea.js",
+    "static/js/2.7f41f541.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d4d86a11.chunk.js"
   ]
 }
