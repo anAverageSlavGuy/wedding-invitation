@@ -12,7 +12,7 @@ import photo1 from '../images/photo1.jpg';
 function Home() {
     return (
         <>
-            <Nav links="false" />
+            <Nav />
             <div className="Home">
                 <section className="row first-section margin">
                     <div className="col-12 col-md-6" style={{ "position": "relative" }}>
