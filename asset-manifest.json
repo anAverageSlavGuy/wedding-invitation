@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.8da5b920.css",
+    "main.js": "./static/js/main.b433171e.js",
+    "static/media/sfondo1.svg": "./static/media/sfondo1.1ed562851743c75ff5beec1ea4bdb9b4.svg",
+    "static/media/CormorantGaramond-SemiBold.ttf": "./static/media/CormorantGaramond-SemiBold.b2e099961ec65e0ee335.ttf",
+    "static/media/CormorantGaramond-Light.ttf": "./static/media/CormorantGaramond-Light.f177b0f5ad7b1f806511.ttf",
+    "static/media/CormorantGaramond-Medium.ttf": "./static/media/CormorantGaramond-Medium.83615ab317fb5a9a4aee.ttf",
+    "static/media/CormorantGaramond-Italic.ttf": "./static/media/CormorantGaramond-Italic.b8b9a9dd5a21ff5896ab.ttf",
+    "static/media/photo1.jpg": "./static/media/photo1.d78c85a74f1940fbcf37.jpg",
+    "static/media/Montserrat-Medium.ttf": "./static/media/Montserrat-Medium.e2d60bc49517598c0ce8.ttf",
+    "static/media/pianta4.svg": "./static/media/pianta4.734b036c149d457a47667eedb55b6353.svg",
+    "static/media/pianta1.svg": "./static/media/pianta1.c2ceea3d9493af17728c7f45bc5a5393.svg",
+    "static/media/pianta3.svg": "./static/media/pianta3.22d3910fa02ddda00eedad49a5592467.svg",
+    "static/media/photo2.jpg": "./static/media/photo2.302e9e4a7e41d74f28a1.jpg",
+    "static/media/pianta2.svg": "./static/media/pianta2.29bb95a9c44baa9241e561f7010563d9.svg",
+    "static/media/pianta5.svg": "./static/media/pianta5.85323864a375a44654fb192d7e20e1df.svg",
+    "static/media/scritte.svg": "./static/media/scritte.2c597445acb4607d20fee8212902a0db.svg",
+    "static/media/japan.svg": "./static/media/japan.3cb28e5b63c5ba55c547df58dd5b736c.svg",
+    "static/media/palette.jpg": "./static/media/palette.c99fb90cc906ac220bba.jpg",
+    "static/media/pianta6.svg": "./static/media/pianta6.d2722e6279f77928e80e53aa7230c4cf.svg",
+    "static/media/pianta7.svg": "./static/media/pianta7.bc6629efbe917f575de04b40f6df00e3.svg",
+    "static/media/cuori.svg": "./static/media/cuori.c231effe7d06612373b99ea60e9818a0.svg",
+    "index.html": "./index.html",
+    "static/media/top.svg": "./static/media/top.8328606961560bb33b4c6a7cb9ade07f.svg",
+    "static/media/bottom.svg": "./static/media/bottom.4b48090360e0aa7c1533b533562b7c00.svg",
+    "main.8da5b920.css.map": "./static/css/main.8da5b920.css.map",
+    "main.b433171e.js.map": "./static/js/main.b433171e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8da5b920.css",
+    "static/js/main.b433171e.js"
+  ]
+}
